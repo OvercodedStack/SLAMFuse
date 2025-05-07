@@ -1,6 +1,6 @@
 # SLAMFuse (AKA: SLAMBench 3.0):
 
-This is a fork of the original SLAMFuse SLAM benchmark tool. This fork is designed to be a specialized tool that that can collect additional information that was not included in the original release. These enhancements are subtle but were collected to provide an additional level of validting the data collected by SLAMFuse.
+This is a fork of the original SLAMFuse SLAM benchmark tool. This fork is designed to be a specialized tool that that can collect additional information that was not included in the original release. These enhancements are subtle but were collected to provide an additional level of validting the data collected by SLAMFuse. If you have complex technical issues, such as how does SLAMFuse create datasets, refer to the wiki: https://github.com/OvercodedStack/SLAMFuse/wiki
 
 ### Disclaimer 2.0: 
 
