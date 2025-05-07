@@ -10,6 +10,35 @@ This version relies a lot more on the SLAMBench 3.0 capabilities of SLAMFuse rat
 
 No, I will update this repository with the SLAMFuse-based code, which then will include the changes to the other SLAM algorithms as well.
 
+### How to cite:
+
+Until I publish my own publications on this tool, I will hold off on citing my own work on this tool. However, you can cite the original developers of SLAMBench and SLAMFuse:
+
+```
+@INPROCEEDINGS{Radulov2024,
+  author={Radulov, Nikola and Zhang, Yuhao and Bujanca, Mihai and Ye, Ruiqi and Luján, Mikel},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={A Framework for Reproducible Benchmarking and Performance Diagnosis of SLAM Systems}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={14225-14232},
+  keywords={Software maintenance;Simultaneous localization and mapping;Perturbation methods;Software algorithms;Benchmark testing;Fuzzing;Reproducibility of results;Reliability;Stress;Resilience},
+  doi={10.1109/IROS58592.2024.10801690}}
+
+@inproceedings{bujanca2019slambench,
+  title={SLAMBench 3.0: Systematic automated reproducible evaluation of SLAM systems for robot vision challenges and scene understanding},
+  author={Bujanca, Mihai and Gafton, Paul and Saeedi, Sajad and Nisbet, Andy and Bodin, Bruno and O'Boyle, Michael FP and Davison, Andrew J and Kelly, Paul HJ and Riley, Graham and Lennox, Barry and others},
+  booktitle={2019 International Conference on Robotics and Automation (ICRA)},
+  pages={6351--6358},
+  year={2019},
+  organization={IEEE}
+}
+```
+
+
+
+
 # Quickstart Instructions
 
 SLAMBench 3.0 relies on essentially 3 broad instructions. The steps are as follow:
